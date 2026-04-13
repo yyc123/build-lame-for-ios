@@ -2,7 +2,7 @@
 将 LAME 源码编译为 iOS 可用的静态库
 
 ## 测试版本：lame-3.100
-## 将 build-lame-for-ios.sh 源码根目录下,修改脚本中第4行实际路径
+## 将 build-lame-for-ios.sh 脚本放入源码根目录下,修改脚本中第4行实际路径
 ## 打开终端 运行脚本：
 ```
 chmod +x build-lame-for-ios.sh
